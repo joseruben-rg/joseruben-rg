@@ -1,7 +1,5 @@
 ##  Hola 👋  I'm Ruben. Nice to meet you!
 
-🏢  Currently working at E2X/OLR
-
 <!--
 **joseruben-rg/joseruben-rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
