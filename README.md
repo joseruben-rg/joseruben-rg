@@ -6,9 +6,7 @@
 
 # I'm a enthusiast developer in love with Golang
 
-- 🔭  Currently working at E2X/OLR.
 - 🌱  Always learning :book:
-- 🥅  2021 goals: Get my hands in OpenSource projects!
 
 ## 📫 Contact
 
