@@ -1,8 +1,5 @@
 ##  Hola 👋  I'm Ruben. Nice to meet you!
 
-![Stack Exchange reputation](https://img.shields.io/stackexchange/StackOverflow/r/10364242?style=for-the-badge)
-
-
 
 <!--
 **joseruben-rg/joseruben-rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +12,7 @@
 ## 📫 Contact
 
 [<img alt="LinkedIn" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-<br>
+
 
 ## 🛠 Languages and Tools
 
